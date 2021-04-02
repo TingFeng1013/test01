@@ -4,4 +4,5 @@ public class Person {
     private Integer id;
     private String name;
     private int phone;
+    private String address;
 }
